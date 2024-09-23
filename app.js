@@ -23,7 +23,7 @@ db.connect((err) => {
 // 가정된 프론트엔드에서 넘어온 URL (이 값이 프론트엔드에서 넘어온다고 가정)
 const frontendData = {
   url_id: '1111',
-  url: 'https://signin.eby.de.zukruygxctzmmqi.civpro.co.za',  // 하위 경로가 있는 URL
+  url: 'https://naver.com',  // 하위 경로가 있는 URL
   qr_status: true
 };
 
